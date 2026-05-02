@@ -1,0 +1,5 @@
+.upstream/
+.zread/
+*.vsix
+[[]Content_Types].xml
+extension/resources/native-binary/
